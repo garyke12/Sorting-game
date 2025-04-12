@@ -6,3 +6,6 @@
 
 ## 設計
 在前面介紹和後面結束遊戲時設計像打字一樣一個一個字出來。
+
+## 連結
+<a>https://colab.research.google.com/drive/1BLZ18Nxs_NiAXIwMkWu5rUYvneQjK9SX?usp=sharing
